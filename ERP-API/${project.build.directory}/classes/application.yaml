@@ -1,5 +1,0 @@
-spring:
-  application:
-    name: ERP-API
-server:
-  port: 9999
